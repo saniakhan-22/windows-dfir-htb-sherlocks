@@ -1,34 +1,44 @@
 # HTB Sherlock: Unit42
-
 ## Overview
-- Platform: Hack The Box
-- Category: DFIR
-- Operating System: Windows
-- Focus: Windows event log analysis and incident investigation
-- Status: In progress
+* **Platform:** Hack The Box
 
-## Investigation Objective
-Analyze the provided forensic artifacts to reconstruct suspicious relevant to the investigation questions.
+* **Category:** Sherlocks
 
-## Environment
-- Host OS: Windows
-- Analysis tools:
-- Evidence source:
-- Analysis method: Statis forensic analysis
+* **Difficulty:** Easy
 
-## Investigation Methodology
-1. Review the challenge instruction and evidence files.
-2. Identify relevant log sources and events IDs.
-3. Filter events by timestamps, process and activity.
-4. Correlate related events to reconstruct the activity.
-5. Record evidence and validate findings.
-6. Build an incident timeline and document conclusions.
+* **Focus:** Windows Event Log Analysis
 
-## Key Findings
+* **Tools:** Windows Event Viewer
 
-## MITRE ATT&CK Mapping
+## Scenario
+Investigated a Windows system compromised through a backdoored UltraVNC installer. The investigation focused on identifying malicious activity using Sysmon logs and Windows Event Viewer.
 
-## Lessons Learned
+## Investigation
+Analyzed the provided unit42.zip artifact and examined Sysmon events to investigate:
+
+* **Process Execution (Event ID 1):** Identified suspicious process activity and execution details.
+
+* **File Activity (Event IDs 2 & 11):** Investigated file creation and timestamp manipulation.
+
+* **Network Activity (Event IDs 3 & 22):** Examined network connections and DNS queries.
+
+* **Process Termination (Event ID 5):** Reviewed process termination activity.
+
+## Key Takeaways
+* Improved familiarity with Windows Sysmon Event IDs.
+
+* Practiced correlating process, file, and network events.
+
+* Gained experience investigating suspicious activity through Windows Event Viewer.
+
+## Artifacts
+* HTB Unit42 Sherlock
+
+* Provided artifact: unit42.zip
+
+* SHA1: 1D8AC45395551187EAF23793CE525056C4136D6E
 
 ## Evidence and Screenshots
 See the screenshots/directory for sanitized evidence screenshots and investigation notes.
+
+**Status:** Completed
