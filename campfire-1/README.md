@@ -34,3 +34,11 @@ Analyzed the provided evidence using Splunk:
 * HTB Sherlocks
 
 **Status:** Completed
+
+## Evidence
+
+### Splunk Log Analysis
+![Splunk Log Analysis](evidence/campfire-1-splunk-log-analysis.png)
+
+### Timeline Explorer
+![Timeline Explorer Analysis](evidence/campfire-1-timeline-explorer.png)
