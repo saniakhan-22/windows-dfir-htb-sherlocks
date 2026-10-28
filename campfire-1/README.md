@@ -8,7 +8,7 @@
 
 * **Focus:** Kerberoasting Investigation
 
-* **Tools:** Splunk
+* **Tools:** Splunk, Timeline Explorer
 
 ## Scenario
 Investigated a suspected Kerberoasting attack reported by a user who discovered unusual files on a workstation.
