@@ -39,7 +39,7 @@ Analyzed the provided unit42.zip artifact and examined Sysmon events to investig
 * SHA1: 1D8AC45395551187EAF23793CE525056C4136D6E
 
 ## Evidence
-
+### Sysmon Event Analysis
 ![Sysmon Event Analysis](evidence/unit-42-sysmon-event-analysis.png)
 
 **Status:** Completed
