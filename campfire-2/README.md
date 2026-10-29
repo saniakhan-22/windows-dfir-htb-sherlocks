@@ -38,4 +38,4 @@ Learned how Domain Controller Security logs can help potential AS-REP Roasting a
 - **T1558.004** - Steal or Forge Kerberos Tickets: AS-REP Roasting
 
 ## Evidence
-![Suspicous Event](campfire-2-suspicious-event.png)
+![Suspicous Event](evidence/campfire-2-suspicious-event.png)
