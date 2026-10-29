@@ -18,4 +18,11 @@ Investigate a suspicious Kerberos ticket request involving an unused administrat
 - **Key Event ID:** '4768' - Kerberos Ticket Granting (TGT) request.
 - **Detection indicator:** 'PreAuthType = 0 , which can indicate a request for an account without Kerberos pre-authentication.
 
-## Findings
+## Skills Learnt
+
+
+## Ket Takeaway
+Learned how Domain Controller Security logs can help potential AS-REP Roasting and how event correlation supports incident investigatiom.
+
+## MITRE ATT&CK
+- **T1558.004** - Steal or Forge Kerberos Tickets: AS-REP Roasting
