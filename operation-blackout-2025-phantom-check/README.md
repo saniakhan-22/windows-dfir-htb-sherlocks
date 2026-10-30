@@ -15,12 +15,18 @@
 Investigated suspected anti-virtualization checks performed by a threat actor attempting to evade sandbox-based detection.
 
 ## Investigation
-* Analyzed Windows event logs to identify virtualization-detection activity.
-* Investigated registry queries and process execution related to virtual machine detection.
-* Correlated relevant log evidence to identify the techniques used.
+* Analyzed .evtx Windows event logs.
+* Investigated PowerShell Event IDs 4103 and 4104.
+* Identified WMI queries used for VM detection.
+* Examined registry keys and running processes.
+* Identified virtualization detection techniques.
 
 ## Key Findings
-* **Detection technique:**
+* Analyzed .evtx Windows event logs.
+* Investigated PowerShell Event IDs 4103 and 4104.
+* Identified WMI queries used for VM detection.
+* Examined registry keys and running processes.
+* Identified virtualization detection techniques.
 
 ## Skills Demonstrated
 * Windows Event Log Analysis
