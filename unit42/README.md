@@ -1,8 +1,8 @@
 # HTB Sherlock: Unit42
 ## Overview
-* **Platform:** Hack The Box
+* **Platform:** Hack The Box - Sherlocks
 
-* **Category:** Sherlocks
+* **Category:** DFIR
 
 * **Difficulty:** Easy
 
