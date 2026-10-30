@@ -1,5 +1,5 @@
 #  HTB Sherlock: Campfire-2
- * **Platform:** Hack The Box
+* **Platform:** Hack The Box - Sherlocks
 
 * **Category:** DFIR
 
