@@ -35,5 +35,5 @@ Investigated suspected anti-virtualization checks performed by a threat actor at
 * Anti-Virtualization Detection
 
 ## Evidence
-### Event Log Analysis
+### Analyzing Event ID 4104
 ![Event ID 4104](evidence/Operation-Blackout-2025-Phantom-Check-powershell.png)
