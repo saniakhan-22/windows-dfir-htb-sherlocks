@@ -1,8 +1,8 @@
 # HTB Sherlock: Campfire-1
 ## Overview
-* **Platform:** Hack The Box
+* **Platform:** Hack The Box - Sherlocks
 
-* **Category:** Sherlocks
+* **Category:** DFIR
 
 * **Difficulty:** Easy
 
@@ -28,10 +28,6 @@ Analyzed the provided evidence using Splunk:
 * Improved familiarity with investigating suspected Kerberoasting activity.
 
 * Used Splunk to support log analysis and incident investigation.
-
-## Resources
-
-* HTB Sherlocks
 
 **Status:** Completed
 
