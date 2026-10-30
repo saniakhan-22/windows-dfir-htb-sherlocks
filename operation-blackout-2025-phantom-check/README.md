@@ -36,4 +36,4 @@ Investigated suspected anti-virtualization checks performed by a threat actor at
 
 ## Evidence
 ### Event Log Analysis
-![Suspicous Event](evidence/campfire-2-suspicious-event.png)
+![Event ID 4104](evidence/Operation-Blackout-2025-Phantom-Check-powershell.png)
