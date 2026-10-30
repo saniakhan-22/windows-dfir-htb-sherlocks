@@ -3,7 +3,7 @@
 ## Overview
 * **Platform:** Hack The Box - Sherlocks
 
-* **Category:** Digital Forensics/Windows Event Log Analysis
+* **Category:** DFIR
 
 * **Difficulty:** Easy
 
