@@ -35,4 +35,5 @@ Investigated suspected anti-virtualization checks performed by a threat actor at
 * Anti-Virtualization Detection
 
 ## Evidence
-###
+### Event Log Analysis
+![Suspicous Event](evidence/campfire-2-suspicious-event.png)
