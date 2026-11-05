@@ -1,4 +1,4 @@
-## HTB Sherlock: Operation Blackout 2025: Phantom Check
+# HTB Sherlock: Operation Blackout 2025: Phantom Check
 
 ## Overview
 * **Platform:** Hack The Box - Sherlocks
