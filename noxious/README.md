@@ -37,5 +37,4 @@ Investigate suspected LLMNR poisoning activity targeting Forela-WKstn002 (172.17
 
 ## Evidence
 ### LLMNR Traffic
-![LLMNR Analysis](evidence/noxious-llmnr-analysis.png]
-)
+![LLMNR Analysis](evidence/noxious-llmnr-analysis.png)
