@@ -3,7 +3,7 @@
 ## Overview
 * **Category:** SOC/Network Forensics
 * **Difficulty:** Very Easy
-* **Tools:** Wireshark, Hashcat
+* **Tools:** Wireshark, Hashcat, Powershell
 * **Artifact:** PCAP
 
 ## Scenario
