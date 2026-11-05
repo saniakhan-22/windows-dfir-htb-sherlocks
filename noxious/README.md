@@ -34,3 +34,8 @@ Investigate suspected LLMNR poisoning activity targeting Forela-WKstn002 (172.17
 * NetNTLMv2 Hash Extraction
 * Hashcat Password Cracking
 * Active Directory Threat Hunting
+
+## Evidence
+### LLMNR Traffic
+![LLMNR Analysis](evidence/noxious-llmnr-analysis.png]
+)
