@@ -1,10 +1,10 @@
 # HTB Sherlock: Noxious
 
 ## Overview
-* ** Category:** SOC/Network Forensics
-* ** Difficulty:** Very Easy
-* ** Tools:** Wireshark, Hashcat
-* ** Artifact:** PCAP
+* **Category:** SOC/Network Forensics
+* **Difficulty:** Very Easy
+* **Tools:** Wireshark, Hashcat
+* **Artifact:** PCAP
 
 ## Scenario
 Investigate suspected LLMNR poisoning activity targeting Forela-WKstn002 (172.17.79.136) in a Active Directory network. Identify the rogue device and determine whether user authentication credentials were exposed.
@@ -22,9 +22,9 @@ Investigate suspected LLMNR poisoning activity targeting Forela-WKstn002 (172.17
 * **Rouge Hostname:** kali
 * **Affected Workstation:** Forela-WKstn002
 * **Captured account:** john.deacon
-* **Attack Technique: LLMNR Poisioning
+* **Attack Technique:** LLMNR Poisoning
 * **Credential Type:** NetNTLMv2
-* **Target share: \\DC01\DC-Confidential
+* **Target share:** \\DC01\DC-Confidential
 
 ## Skills Learned
 * PCAP Analysis
