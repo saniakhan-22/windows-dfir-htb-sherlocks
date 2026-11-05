@@ -24,7 +24,7 @@ Investigate suspected LLMNR poisoning activity targeting Forela-WKstn002 (172.17
 * **Captured account:** john.deacon
 * **Attack Technique:** LLMNR Poisoning
 * **Credential Type:** NetNTLMv2
-* **Target share:** \\DC01\DC-Confidential
+* **Target share:** \\DCC01\DC-Confidential
 
 ## Skills Learned
 * PCAP Analysis
